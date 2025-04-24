@@ -36,3 +36,13 @@ A real-time hand gesture recognition assistant that allows you to control your P
 ```bash
 git clone https://github.com/Esi-Disi/hand-gesture-based-pc-assistant.git
 cd hand-gesture-pc-assistant
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. 3. Run the Assistant
+```bash
+python assistant.py
+```
