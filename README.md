@@ -20,19 +20,19 @@ A real-time hand gesture recognition assistant that allows you to control your P
 ## 📷 Gestures Overview
 | Gesture | Action |
 |--------|--------|
-| 👍 Thumbs Up | Activate System |
-| 👎 Thumbs Down | Deactivate System |
-| ✊ Fist | Pause Media |
-| 🖐️ Open Palm | Play/Pause Media |
-| ✌️ + 👍 Victory w/ Thumb | Next/Previous Track |
-| 🤟 'L' Shape | Enable Cursor Mode |
-| ✌️ Two Fingers | Enable Scroll Mode |
-| 🤘 Three Fingers | Enable Volume Mode |
-| 🖕 Middle Finger | Exit Assistant |
+|  Thumbs Up | Activate System |
+|  Thumbs Down | Deactivate System |
+|  Fist | Pause Media |
+|  Open Palm | Play/Pause Media |
+|  Victory w/ Thumb | Next/Previous Track |
+|  'L' Shape with your indx finger and thumb | Enable Cursor Mode |
+|  Two Fingers | Enable Scroll Mode |
+|  Three Fingers | Enable Volume Mode |
+|  Middle Finger | Exit Assistant |
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hand-gesture-pc-assistant.git
+git clone https://github.com/Esi-Disi/hand-gesture-based-pc-assistant.git
 cd hand-gesture-pc-assistant
