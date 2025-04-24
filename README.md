@@ -42,7 +42,7 @@ cd hand-gesture-pc-assistant
 pip install -r requirements.txt
 ```
 
-### 3. 3. Run the Assistant
+### 3. Run the Assistant
 ```bash
 python assistant.py
 ```
